@@ -1,7 +1,7 @@
 <p align="center"> 
   <a>
-    <img width="450" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=5dade2&size=50&center=true&vCenter=true&width=450&height=100&lines=Hi+%F0%9F%91%8B,;I+am+a+student;I+do+some+stuff;Feel+free+to+get">
-    <img width="450" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=7c82ca&size=50&center=true&vCenter=true&width=450&height=100&lines=I'am+DerMerten;from+Germany;with+computers;in+touch+with+me">
+    <img width="300" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=5dade2&size=50&center=true&vCenter=true&width=450&height=100&lines=Hi+%F0%9F%91%8B,;I+am+a+student;I+do+some+stuff;Feel+free+to+get">
+    <img width="300" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=7c82ca&size=50&center=true&vCenter=true&width=450&height=100&lines=I'am+DerMerten;from+Germany;with+computers;in+touch+with+me">
   </a>
   <a href="https://discord.com/users/421392717491339265">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"/>
