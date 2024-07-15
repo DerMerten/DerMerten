@@ -1,7 +1,7 @@
 <p align="center"> 
   <a href="https://wps.dermerten.xyz">
-    <img width="250" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=5dade2&size=55&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B,;I+am+a+student;I+do+some+stuff;Feel+free+to+get">
-    <img width="250" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=7c82ca&size=55&center=true&vCenter=true&width=500&height=100&lines=I+am+DerMerten;from+Germany;with+computers;in+touch+with+me">
+    <img width="100" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=5dade2&size=55&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B,;I+am+a+student;I+do+some+stuff;Feel+free+to+get">
+    <img width="100" src="https://readme-typing-svg.herokuapp.com/?font=Museo+Slab&color=7c82ca&size=55&center=true&vCenter=true&width=500&height=100&lines=I+am+DerMerten;from+Germany;with+computers;in+touch+with+me">
   </a>
   <br>
   <br><br><br><br>
