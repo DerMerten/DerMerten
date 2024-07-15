@@ -11,9 +11,9 @@
 </p
 <p align="center">
     <a href="https://wps.dermerten.xyz">
-    <img align="bottom" src="https://streak-stats.demolab.com?user=DerMerten&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
-  </a>
-  <a href="https://wps.dermerten.xyz">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=DerMerten&show_icons=true&theme=tokyonight">
+  </a>
+    <a href="https://wps.dermerten.xyz">
+    <img align="left" src="https://streak-stats.demolab.com?user=DerMerten&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
   </a>
 </p>
