@@ -9,7 +9,7 @@
     <hr>
   </a>
 </p
-<p align="center">
+<p align="left">
     <a href="https://wps.dermerten.xyz">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=DerMerten&show_icons=true&theme=tokyonight">
   </a>
